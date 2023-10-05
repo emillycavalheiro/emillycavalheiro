@@ -1,16 +1,13 @@
-### Hi there 👋
+### biografia 👋
 
-<!--
-**emillycavalheiro/emillycavalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👩 Meu nome é emilly 
+- 😊 Tenho 15 anos
+- 👶 Nasci no dia 07/11/2007
+- ⛪ Sou catolica 
+- Meu time é o Grêmio 
+- Quero ser Policial Rodoviario Federal
+- 🎶 Gosto de ouvir música
+- 🏫 Estudo no Colégio Orlando Luiz Zamprônio
+  
 
-- 🔭 meu nome é emilly 
-- 🌱 tenho 15 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
